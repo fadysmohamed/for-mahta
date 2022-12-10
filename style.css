@@ -45,14 +45,14 @@ body{
 }
 
 .inner-quotes-container p{
-  font-size: 2.5rem;
+  font-size: 2rem;
   padding-top: 25px;
   color: rgb(255, 255, 255);
 }
 
 .inner-quotes-container h3{
   font-size: 1rem;
-  color: rgb(255, 255, 255);
+  color: rgb(234, 90, 193);
 }
 
 .quote-btn{padding-top: 25px;}
