@@ -25,7 +25,7 @@ body{
 .spotify{
     display: flex;
     vertical-align: top;
-    width: 80%;
+    width: 70%;
 }
 
 .inner-quotes-container{
@@ -33,15 +33,15 @@ body{
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 900px;
+  width: 1000px;
   text-align: center;
-  min-height: 400px;
+  min-height: 450px;
   padding: 0 25px;
   color: gray;
   border-radius: 10px;
   background-color: #000000;
-  border: 10px solid #0dc1ce;
-  box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.9); 
+  border: 10px solid #1fc6cf;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.9); 
 }
 
 .inner-quotes-container p{
@@ -51,11 +51,11 @@ body{
 }
 
 .inner-quotes-container h3{
-  font-size: 1rem;
+  font-size: 1.2rem;
   color: rgb(234, 90, 193);
 }
 
-.quote-btn{padding-top: 25px;}
+.quote-btn{padding-top: 25px; padding-bottom: 7px;}
 
 @media(max-width:1280px){
   .container{width: 95%;}

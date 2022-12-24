@@ -224,6 +224,8 @@ document.querySelector("#generate").addEventListener("click", () => {
       "(Stars Were Made For Us - Bella Goldwin)": '"There is a world beyond here I know we will find. Only love can make us fly."',
       "(Stars Were Made For Us - Bella Goldwin)": '"Let us get out of here no more wasting time. We were born to live our lives. Take a leap of faith with me."',
       "(Stars Were Made For Us - Bella Goldwin)": '"Do not you think we can reach the stars? Never let my hand go. I will take you far beyond where we are. Take a leap of faith with me."',
+      "(Men On The Moon - Chelsea Cutler)": '"We put men on the moon, but I still do not know how to get to you. And now all I can do, is wait for you to come down"',
+      "(Men On The Moon - Chelsea Cutler)": '"Yeah, I choose you, I do. I am not the same as I was before. And I would not hurt you anymore, cause I choose you"',
     };
   
     // grab all the keys in the dictionary (authors) and store in an array
