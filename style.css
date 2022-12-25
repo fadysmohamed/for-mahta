@@ -25,7 +25,7 @@ body{
 .spotify{
     display: flex;
     vertical-align: top;
-    width: 100%;
+    width: 80%;
 }
 
 .inner-quotes-container{
